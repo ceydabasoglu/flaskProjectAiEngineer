@@ -1,0 +1,1 @@
+Bu metin, vektör arama aracının örnek bir belgesinin içeriğini temsil etmektedir. Bu belge, bir konu hakkında genel bilgiler içerebilir ve API'nin doğru sonuçlar üretip üretmediğini test etmek için kullanılabilir. Örneğin, bu metin bir makalenin içeriği olabilir ve API'ye gönderilen kullanıcı mesajlarına benzer konuları içerebilir.
